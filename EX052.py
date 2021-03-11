@@ -20,5 +20,3 @@ else:
     sleep(2)
     print('O numero {} não é primo'.format(numero))
 
-
-#REVISAR, DIFICI
