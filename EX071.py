@@ -41,5 +41,4 @@ print(' ' * 10, 'OBRIGADO E ATÉ LOGO', ' ' * 10)
 print('=' * 40)
 
 
-#ESTUDAR ESSE DEPOIS, ESTUDAR MAIS LÓGICA TAMBEM
 
