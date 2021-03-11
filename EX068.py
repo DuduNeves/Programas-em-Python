@@ -39,7 +39,7 @@ print(f'GAME OVER... Você venceu {v} vezes')
 
 
 
-#DIFICIL A QUESTÃO DA LOGICAAAAAAA
+
 
 
 
