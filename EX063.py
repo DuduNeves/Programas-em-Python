@@ -20,5 +20,3 @@ while contador <= n:
 print('-> FIM')
 print('~~~' * 20)
 
-
-'''DIFICIL'''
